@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Onyeka Prince</h1>
-<h3 align="center">A Customer focused Cloud Architect who designs tailored Cloud solutions to meet specific organizational needs. My role involves guiding stakeholders through their Cloud journey, starting with a deep understanding of their business objectives.I'm dedicated to uncovering the challenges or goals that can be addressed through Cloud solutions, and then proposing cost-effective, scalable, reliable, and secure technical solutions.</h3> 
+<h3 align="center">A Customer focused Cloud Architect who designs tailored Cloud solutions to meet specific organizational needs. My role involves guiding stakeholders through their Cloud journey, starting with a deep understanding of their business objectives. I'm dedicated to uncovering the challenges or goals that can be addressed through Cloud solutions, and then proposing cost-effective, scalable, reliable, and secure technical solutions.</h3> 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--V-mpRIde--/c_imagga_scale,f_auto,fl_progressive,h_720,q_66,w_1280/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/62tl8vk2bv6lxaze5gn0.gif">
 
 
